@@ -131,15 +131,14 @@ La actividad consiste en **jornadas de limpieza y recogida de residuos** en ento
 
 - **Medioambientales:** Reducir la presencia de basura y plásticos en espacios naturales; favorecer la recuperación de entornos degradados; sensibilizar sobre el consumo responsable y el correcto tratamiento de residuos.
 - **Sociales:** Fomentar el **voluntariado corporativo**, reforzar el sentido de pertenencia al equipo y acercar a la empresa a la comunidad local mediante una acción visible y colaborativa.
-- **Formativos (vinculados a la FP Dual):** Desarrollar actitud proactiva, trabajo en equipo fuera del entorno habitual de oficina y reflexión sobre la sostenibilidad aplicada al sector tecnológico.
+- **Formativos:** Desarrollar actitud proactiva, trabajo en equipo fuera del entorno habitual de oficina y reflexión sobre la sostenibilidad aplicada al sector tecnológico.
 
 **3. Beneficios para la empresa y para la comunidad**
 
 | Ámbito | Beneficios |
 |--------|------------|
-| **Empresa** | Refuerzo de la imagen corporativa responsable; mejora del clima laboral y de la cohesión entre equipos; oportunidad de networking interno entre perfiles que no coinciden a diario en el mismo proyecto. |
-| **Comunidad** | Espacios naturales más limpios y seguros para el uso ciudadano; reducción de residuos que pueden acabar en el mar o en cauces; ejemplo de implicación empresarial en el territorio (Málaga y alrededores). |
-| **Alumnado en prácticas** | Integración en la cultura de la empresa más allá del código; desarrollo de competencias transversales (organización, comunicación, responsabilidad) útiles para la empleabilidad. |
+| **Empresa** | Refuerzo de la imagen corporativa responsable, mejora del clima laboral y de la cohesión entre equipos. |
+| **Comunidad** | Espacios naturales más limpios y seguros para el uso ciudadano, reducción de residuos que pueden acabar en entornos naturales, ejemplo de implicación empresarial. |
 
 **4. Mejoras y recomendaciones de implementación**
 
@@ -148,18 +147,17 @@ Propongo complementar **Basuraless** con una acción alineada con el perfil tecn
 - **Jornada de recogida de residuos electrónicos (RAEE)** en la sede de **The Green Ray**: punto temporal de recogida de teclados, ratones, cables, cargadores y pequeños periféricos obsoletos de empleados, con canalización a un gestor autorizado de residuos electrónicos.
 - **Comunicación previa** mediante canales internos (correo, Teams o tablón de la oficina) con fechas, lista de materiales aceptados y normas de seguridad.
 - **Seguimiento de impacto:** registrar kilos recogidos o número de dispositivos entregados y publicar un resumen interno para reforzar la concienciación.
-- **Vinculación con el proyecto formativo:** relacionar la acción con la reducción de la **huella digital** (almacenamiento innecesario, equipos en desuso) y con buenas prácticas ya presentes en el día a día del desarrollo (reutilización, documentación compartida, menos desperdicio de recursos).
 
 Esta mejora sería coherente con la actividad de la empresa, aprovecharía recursos ya disponibles (espacio en sede, comunicación interna, participación voluntaria) y ampliaría el mensaje sostenible más allá del entorno natural.
 
-**5. Síntesis de observaciones sobre competencias personales, sociales y emocionales (RA2)**
+**5. Síntesis de observaciones sobre competencias personales, sociales y emocionales**
 
 Durante la estancia he podido observar el funcionamiento interno de Viewnext en aspectos relacionados con la empleabilidad:
 
-- **Trabajo en equipo:** El trabajo se organiza en equipos multidisciplinares con roles definidos (desarrollo, pruebas, coordinación). Las **dailys** permiten alinear el avance diario; en **sprint planning** se reparten tareas de forma explícita; las **demos** y **retrospectivas** fomentan la revisión conjunta y la mejora continua. He notado que se valora preguntar, compartir bloqueos y apoyarse entre compañeros cuando surge una duda técnica.
-- **Gestión de conflictos:** Los desacuerdos técnicos o de prioridades suelen abordarse en reuniones de equipo o con el referente del proyecto, priorizando argumentos objetivos (impacto en el cliente, plazos, calidad) frente a posiciones personales. La retrospectiva actúa como espacio para expresar fricciones de proceso de forma constructiva.
-- **Comunicación con la dirección y el equipo:** Existe un canal claro entre el equipo de desarrollo y figuras de referencia (tutor de prácticas, responsables de proyecto). La comunicación es directa y profesional, con feedback periódico sobre el trabajo realizado y expectativas realistas según el nivel formativo.
-- **Organización del tiempo y las tareas:** Las tareas se planifican por sprints y se hace seguimiento con herramientas como **Jira** o **Trello**. El día a día combina formación, desarrollo, pruebas y reuniones breves, lo que exige priorizar, cumplir plazos y adaptarse cuando cambian las prioridades del proyecto (por ejemplo, durante las migraciones a **Spring Boot** y **React**).
+- **Trabajo en equipo:** El trabajo se organiza en equipos multidisciplinares con roles definidos (desarrollo, pruebas, coordinación). Las **dailys** permiten alinear el avance diario, en los **sprint planning** se reparten tareas de forma explícita y en las **demos** y **retrospectivas** fomentan la revisión conjunta y la mejora continua. He notado que se valora preguntar, compartir bloqueos y apoyarse entre compañeros cuando surge una duda técnica.
+- **Gestión de conflictos:** Los desacuerdos técnicos o de prioridades suelen abordarse en reuniones de equipo, con los responsables de las prácticas y el proyecto, para que nos den las pautas a seguir.
+- **Comunicación con la dirección y el equipo:** Existe un canal en teams entre el equipo de desarrollo y con los responsables de las prácticas. La comunicación es directa y profesional, con feedback periódico sobre el trabajo realizado y expectativas.
+- **Organización del tiempo y las tareas:** Las tareas se planifican por sprints y se hace seguimiento con herramientas como **Jira** y **Trello**. El día a día combina formación, desarrollo, pruebas y reuniones breves.
 
 En conjunto, esta experiencia me ha ayudado a entender cómo las competencias personales y sociales (comunicación, trabajo en equipo, gestión del tiempo, resolución de problemas) son tan relevantes como las técnicas para integrarse y progresar en una empresa del sector TIC.
 
