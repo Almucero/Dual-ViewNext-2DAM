@@ -29,6 +29,289 @@ A lo largo de la estancia se ha trabajado en un entorno organizado mediante reun
 - **Retrospectivas**, para revisión del proceso y mejora continua.
 Esto ha permitido entender mejor cómo se estructura el trabajo en una empresa tecnológica real y cómo se coordinan distintos perfiles dentro de un mismo proyecto.
 ---
+## Trabajo por semana
+
+A continuación se detalla la evolución de las prácticas semana a semana, con el calendario real de actividades, reuniones del equipo (dailys, sprint planning, demos y retrospectivas) y el hilo conductor del proyecto **HiveFive**: una aplicación tipo Trello para gestión de tareas, desarrollada en ediciones anteriores con **Oracle JET**, **SOA/OSB** y parte en **Spring Boot**. El itinerario formativo cubrió primero esas tecnologías Oracle, luego la migración completa del proyecto a **SOA/OSB + JET**, y finalmente la migración inversa hacia **Spring Boot + React** apoyándose en agentes y skills de IA para el desarrollo.
+
+---
+
+### Semana 1 — 23 de enero de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **23** | Recepción de material e introducción al entorno de prácticas |
+
+**Resumen:** Primera jornada en Viewnext. Entrega de equipamiento, accesos y presentación inicial del periodo dual, con primer contacto con la organización del trabajo y los tutores laborales.
+
+---
+
+### Semana 2 — 26 al 30 de enero de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **26** | Cursos obligatorios + **Arranque Beca 2026** |
+| **27** | Cursos complementarios |
+| **28** | Retos **Oracle JET** |
+| **29** | Retos **Oracle JET** |
+| **30** | Retos **Oracle JET** |
+
+**Cursos obligatorios:** Prevención de riesgos laborales, gestión medioambiental y seguridad de la información.
+
+**Cursos complementarios:** Prompting efectivo e IA generativa.
+
+**Arranque Beca 2026:** Presentación general con distintos miembros de la empresa, compañeros de prácticas y tutores laborales.
+
+**Retos JET:** Despliegue del entorno local de desarrollo y creación de **Web Components** sobre la estructura `jet-composites`, como primer acercamiento práctico a Oracle JET.
+
+---
+
+### Semana 3 — 2 al 6 de febrero de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **2** | Retos JET + **Sprint Planning** |
+| **3** | Retos JET |
+| **4** | Formación de servicios web + preparación de presentación para Demo |
+| **5** | Preparación de entorno Oracle para SOA/OSB (JDeveloper) + Demo/Retro |
+| **6** | Formación **SOA** |
+
+**Retos JET:** Implementación de estados dinámicos (view, create, edit, delete) con lógica de lectura/escritura en el formulario `demo-update`. Integración de selectores multimedia con previsualización e intercambio de datos mediante objetos e hilos de eventos. Migración del flujo de datos a `CollectionDataProvider` y encapsulado modular del componente dentro de un contenedor `oj-dialog`.
+
+**Formación de servicios web:** Curso de iniciación a servicios web y consulta de documentación en línea.
+
+**Formación SOA:** Prácticas guiadas explorando el entorno siguiendo una guía interna de la empresa.
+
+---
+
+### Semana 4 — 9 al 13 de febrero de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **9** | Formación SOA |
+| **10** | Formación SOA + **Sprint Planning** |
+| **11** | Formación SOA |
+| **12** | Formación SOA |
+| **13** | Formación **OSB** |
+
+**Formación SOA/OSB:** Consolidación de conceptos de arquitectura orientada a servicios y prácticas en el entorno Oracle. La formación en **OSB** (Oracle Service Bus) comienza el viernes con ejercicios guiados de mayor complejidad y extensión que los de SOA.
+
+---
+
+### Semana 5 — 16 al 20 de febrero de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **16** | Formación OSB |
+| **17** | Formación OSB |
+| **18** | Formación OSB + preparación de presentación para Demo |
+| **19** | Dockerización de entorno JDeveloper + Demo/Retro |
+| **20** | Documentación del contenedor Docker + desarrollo en **Figma** |
+
+**Formación OSB:** Continuación de prácticas guiadas, más complejas y extensas que en SOA.
+
+**Dockerización de JDeveloper:** Empaquetado del entorno de desarrollo Oracle para SOA/OSB (JDeveloper) y sus dependencias en un **contenedor Docker** descargable, simplificando el proceso de instalación para cualquier miembro del equipo.
+
+**Documentación Docker:** Redacción de guía clara de puesta en marcha del entorno dockerizado, con soluciones a errores frecuentes.
+
+**Desarrollo en Figma:** Tras acordar en sprint planning el desarrollo de una web concreta con las tecnologías vistas, se diseñó previamente el prototipo visual en Figma antes de implementarlo.
+
+---
+
+### Semana 6 — 2 al 6 de marzo de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **2** | Recepción e inicio de migración del proyecto **HiveFive** |
+| **3** | SOA/OSB CRUDs + **Sprint Planning** |
+| **4** | SOA/OSB CRUDs |
+| **5** | SOA/OSB CRUDs |
+| **6** | SOA/OSB CRUDs |
+
+**HiveFive:** Proyecto tipo Trello de gestión de tareas, desarrollado por alumnos en prácticas anteriores con **SOA/OSB/JET** y parte en **Spring Boot**. El objetivo asignado fue migrar toda la lógica de Spring Boot a **SOA/OSB**, eliminando Spring Boot del stack.
+
+**SOA/OSB CRUDs:** Para la migración fue necesario reimplementar desde cero la lógica exclusiva de Spring Boot en CRUDs SOA/OSB (por aprendizaje y por ser más manejable que retomar código incompleto). Cada CRUD cuenta con un proyecto SOA y un proyecto OSB independientes, conectados entre sí.
+
+---
+
+### Semana 7 — 9 al 13 de marzo de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **9** | SOA/OSB CRUDs |
+| **10** | SOA/OSB CRUDs + **Sprint Planning** |
+| **11** | Mejoras, arreglos y refinamientos en nuevo backend (SOA/OSB) |
+| **12** | Mejoras, arreglos y refinamientos en nuevo backend (SOA/OSB) |
+| **13** | Adaptación del frontend en **JET** al nuevo backend |
+
+**Refinamiento del backend:** Verificación de que el nuevo backend y sus endpoints funcionan correctamente y están listos para integrarse con el frontend.
+
+**Adaptación del frontend JET:** Eliminación de la lógica asociada a Spring Boot y conexión con el nuevo backend SOA/OSB hasta recuperar la funcionalidad original de las pantallas.
+
+---
+
+### Semana 8 — 16 al 20 de marzo de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **16** | Adaptación frontend JET + reunión sobre objetivos del equipo |
+| **17** | Mejoras en frontend JET |
+| **18** | Mejoras en frontend JET |
+| **19** | Mejoras en frontend JET + preparación de presentación para Demo |
+| **20** | **SOA & JET TESTS** + Demo |
+
+**Mejoras en frontend JET:** Tras completar la migración, nuevas funcionalidades y mejoras: sistema y pantalla de login, tableros, datos esqueleto (skeleton) en carga y otras mejoras estéticas y funcionales.
+
+**SOA & JET TESTS:** Tests de integración en SOA (único tipo viable en ese entorno) y tests unitarios y de funcionamiento de pantallas en JET.
+
+---
+
+### Semana 9 — 23 al 27 de marzo de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **23** | SOA & JET TESTS |
+| **24** | SOA & JET TESTS + **Sprint Planning** |
+| **25** | **OSB TESTS** |
+| **26** | **DEMO** |
+| **27** | Establecimiento de nuevos objetivos |
+
+**OSB TESTS:** Documentación de todos los endpoints y formas de invocarlos para prueba en **Postman**, incluyendo escenarios diversos (por ejemplo, crear un recurso con un identificador ya existente).
+
+**DEMO:** Exposición ante tutores laborales del resultado de la migración de HiveFive a SOA/OSB y JET.
+
+**Nuevos objetivos:** Tras completar la migración a tecnologías Oracle, se plantea migrar el proyecto entero a **Spring Boot** y **React** con apoyo de IA; el trabajo en SOA/OSB/JET queda versionado como referencia y como fase formativa.
+
+---
+
+### Semana 10 — 7 al 10 de abril de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **7** | **IDE Agents & Skills** |
+| **8** | IDE Agents & Skills + preparación de presentación para Demo |
+| **9** | SOA/OSB → **Spring Boot** + Demo |
+| **10** | SOA/OSB → Spring Boot |
+
+**IDE Agents & Skills:** Desarrollo de agentes, skills y configuraciones para IDEs compatibles, orientados a ejecutar las migraciones de forma componentizada y siguiendo estándares acordados.
+
+**SOA/OSB → Spring Boot:** Inicio de la migración del backend apoyándose en esos agentes.
+
+---
+
+### Semana 11 — 13 al 17 de abril de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **13** | SOA/OSB → Spring Boot |
+| **14** | SOA/OSB → Spring Boot |
+| **15** | SOA/OSB → Spring Boot |
+| **16** | **Spring Boot TESTS** |
+| **17** | Spring Boot TESTS |
+
+**Migración backend:** Migración componente a componente de SOA/OSB a Spring Boot, verificando paridad funcional.
+
+**Spring Boot TESTS:** Dos suites: pruebas **unitarias** sin base de datos y pruebas de **integración** con conexión a BD, ejecutables sin riesgo de ensuciar datos de prueba. Desarrollo asistido por agentes y skills.
+
+---
+
+### Semana 12 — 20 al 24 de abril de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **20** | **JET → React** |
+| **21** | JET → React + **Sprint Planning** |
+| **22** | JET → React |
+| **23** | JET → React |
+| **24** | **React TESTS** |
+
+**JET → React:** Migración pantalla a pantalla y componente a componente del frontend, con mejora del diseño visual aprovechando la stack moderna.
+
+**React TESTS:** Comprobación de la migración y tests unitarios y de funcionamiento de la aplicación web, también con skills y agentes especializados.
+
+---
+
+### Semana 13 — 27 al 30 de abril de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **27** | React TESTS |
+| **28** | Limpieza del proyecto y nueva documentación |
+| **29** | Mejoras de diseño y funcionalidad en frontend migrado |
+| **30** | Mejoras de diseño y funcionalidad en frontend migrado |
+
+**Limpieza y documentación:** Eliminación de referencias a la estructura antigua en la rama activa (código legacy versionado pero no presente en la versión actual). Nueva documentación adaptada al proyecto, incluyendo documentación detallada del backend en **Bruno**.
+
+---
+
+### Semana 14 — 4 al 8 de mayo de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **4** | Mejoras de diseño y funcionalidad en frontend migrado |
+| **5** | Mejoras en frontend + **Sprint Planning** |
+| **6** | Preparación de **DEMO final** |
+| **7** | Preparación de DEMO final |
+| **8** | Preparación de DEMO final |
+
+**Mejoras en frontend:** Con el proyecto migrado, limpio y funcional, optimización de diseño, funcionalidad y rendimiento, evolucionando respecto al proyecto inicial hacia un resultado más pulido.
+
+**Preparación DEMO final:** Elaboración de la presentación del proyecto de migración y del trabajo del periodo de prácticas para tutores y dirección.
+
+---
+
+### Semana 15 — 11 al 15 de mayo de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **11** | Preparación de DEMO final |
+| **12** | DEMOs de prueba y ajustes en la presentación |
+| **13** | DEMOs de prueba y ajustes en la presentación |
+| **14** | DEMOs de prueba y ajustes en la presentación |
+| **15** | DEMOs de prueba y ajustes en la presentación |
+
+**Ensayos de DEMO:** Práctica de la presentación ante tutores y entre el equipo, refinando el guion, el material visual y los posibles cambios pendientes en la aplicación.
+
+---
+
+### Semana 16 — 18 al 22 de mayo de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **18** | **DEMO final** |
+| **19** | Mejoras en HiveFive + **Sprint Planning** |
+| **20** | Mejoras en HiveFive |
+| **21** | Mejoras en HiveFive |
+| **22** | Mejoras en HiveFive |
+
+**DEMO final:** Presentación en tiempo real de las distintas etapas de migración y de la formación recibida, ante tutores laborales y altos cargos de la empresa.
+
+**Mejoras en HiveFive:** Tras la demo, continuación de mejoras anotadas previamente o surgidas durante la presentación (por ejemplo, templates en Spring Boot o integración de IA interna de la empresa en el frontend).
+
+---
+
+### Semana 17 — 25 al 28 de mayo de 2026
+
+| Día | Actividad |
+|-----|-----------|
+| **25** | Preparación de presentación de prácticas y entregable |
+| **26** | Preparación de presentación de prácticas y entregable |
+| **27** | Grabación del vídeo de exposición de las prácticas |
+| **28** | Entrega de equipos y despedida |
+
+**Cierre del periodo dual:** Elaboración de la presentación y del README de entrega, grabación del vídeo conjunto en las oficinas de Viewnext y devolución de material.
+
+---
+
+### Resumen por fases
+
+| Fase | Periodo aproximado | Enfoque principal |
+|------|-------------------|-----------------|
+| **Incorporación y formación JET** | Ene 2026 | Cursos corporativos, retos JET, arranque Beca 2026 |
+| **Formación SOA/OSB e infraestructura** | Feb 2026 | SOA, OSB, servicios web, Docker + JDeveloper, Figma |
+| **HiveFive en stack Oracle** | Mar 2026 | CRUDs SOA/OSB, frontend JET, tests, demo intermedia |
+| **Agents, skills y migración moderna** | Abr–May 2026 | Spring Boot, React, tests, limpieza, demos y cierre |
+
+---
 # Actividad individual de José
 ## Resumen de la actividad realizada
 Durante mi estancia en Viewnext he participado en un itinerario progresivo que ha combinado formación técnica, integración en la dinámica del equipo, desarrollo de tareas prácticas, pruebas y participación en procesos de migración tecnológica.
@@ -41,48 +324,8 @@ La evolución general de mi actividad ha sido la siguiente:
 - **04/2026 - 05/2026:** **Migración de backend** de **SOA y OSB** a **Spring Boot**
 - **04/2026 - 05/2026:** **Migración de frontend** de **JET** a **React**
 - **04/2026 - 05/2026:** **Pruebas** sobre **Spring Boot** y **React**
-## Temporalización por semanas
-### Semanas 1 y 2
-**Del 26 de enero al 8 de febrero de 2026**
-- Incorporación al entorno de prácticas.
-- Asistencia a las reuniones habituales del equipo.
-- Primer contacto con la organización del trabajo.
-- Inicio de la formación en **Oracle JET**.
-- Participación en sesiones iniciales de objetivos y seguimiento.
-### Semanas 3, 4 y 5
-**Del 9 de febrero al 1 de marzo de 2026**
-- Continuación de la formación en **Oracle JET**.
-- Inicio de la formación en **SOA** y **OSB**.
-- Comprensión de la arquitectura y estructura general del proyecto.
-- Participación en reuniones de planificación, seguimiento y revisión.
-### Semanas 6, 7 y 8
-**Del 2 de marzo al 22 de marzo de 2026**
-- Desarrollo de tareas relacionadas con **HiveFive** en **JET** y **SOA & OSB**.
-- Aplicación práctica de los conocimientos adquiridos en la fase formativa.
-- Mayor participación en la dinámica real del equipo.
-- Seguimiento de tareas mediante reuniones periódicas.
-### Semanas 9 y 10
-**Del 23 de marzo al 5 de abril de 2026**
-- Trabajo de **pruebas y validación** sobre desarrollos en **JET** y **SOA**.
-- Revisión del comportamiento de distintas funcionalidades.
-- Consolidación de conocimientos técnicos y del flujo de trabajo.
-### Semanas 11 y 12
-**Del 6 de abril al 19 de abril de 2026**
-- Trabajo en aspectos de **integración** entre tecnologías.
-- Participación en tareas relacionadas con **agents and skills**.
-- Continuación del seguimiento técnico y organizativo del proyecto.
-### Semanas 13, 14, 15 y 16
-**Del 20 de abril al 17 de mayo de 2026**
-- Participación en la **migración del backend** desde **SOA y OSB** hacia **Spring Boot**.
-- Participación en la **migración del frontend** desde **Oracle JET** hacia **React**.
-- Adaptación a nuevas tecnologías y comprensión de los cambios de arquitectura.
-- Realización de pruebas en los nuevos entornos de desarrollo.
-### Semanas 17 y 18
-**Del 18 de mayo al 25 de mayo de 2026**
-- Pruebas sobre desarrollos en **Spring Boot** y **React**.
-- Participación en demos y reuniones de cierre.
-- Preparación de la presentación final de prácticas.
-- Recopilación y síntesis del trabajo realizado.
+
+
 ## Responsabilidades asumidas
 Durante este periodo mis responsabilidades principales han sido:
 - Participar activamente en el entorno de trabajo del equipo.
@@ -92,6 +335,8 @@ Durante este periodo mis responsabilidades principales han sido:
 - Colaborar en pruebas y validación de funcionalidades.
 - Participar en procesos de migración tecnológica.
 - Documentar y sintetizar el aprendizaje adquirido durante la estancia.
+
+
 ## Herramientas y tecnologías utilizadas
 A lo largo de las prácticas he trabajado con las siguientes herramientas, tecnologías y entornos:
 - **Oracle JET**
