@@ -411,12 +411,12 @@ En la grabación del vídeo he mostrado sobre todo operaciones de **lectura y bo
 
 | Tema | Archivo |
 |------|---------|
-| Retos Oracle JET | [`recursos/videos/retos-jose.mp4`](recursos/videos/retos-jose.mp4) |
-| Prototipo Figma | [`recursos/videos/figma-jose.mp4`](recursos/videos/figma-jose.mp4) |
-| Backend SOA/OSB (consultas) | [`recursos/videos/soaosb-jose.mp4`](recursos/videos/soaosb-jose.mp4) |
-| Spring Boot | [`recursos/videos/springboot-jose.mp4`](recursos/videos/springboot-jose.mp4) |
-| Frontend JET | [`recursos/videos/jet-jose.mp4`](recursos/videos/jet-jose.mp4) |
-| Frontend React | [`recursos/videos/react-jose.mp4`](recursos/videos/react-jose.mp4) |
+| Retos Oracle JET | [`recursos/videos/jose/retos.mp4`](recursos/videos/jose/retos.mp4) |
+| Prototipo Figma | [`recursos/videos/jose/figma.mp4`](recursos/videos/jose/figma.mp4) |
+| Backend SOA/OSB (consultas) | [`recursos/videos/jose/soaosb.mp4`](recursos/videos/jose/soaosb.mp4) |
+| Spring Boot | [`recursos/videos/jose/springboot.mp4`](recursos/videos/jose/springboot.mp4) |
+| Frontend JET | [`recursos/videos/jose/jet.mp4`](recursos/videos/jose/jet.mp4) |
+| Frontend React | [`recursos/videos/jose/react.mp4`](recursos/videos/jose/react.mp4) |
 
 ## Responsabilidades asumidas
 Durante este periodo mis responsabilidades principales han sido:
@@ -543,12 +543,12 @@ En el vídeo de exposición he mostrado principalmente flujos de **creación y e
 
 | Tema | Archivo |
 |------|---------|
-| Retos Oracle JET | [`recursos/videos/retos-alvaro.mp4`](recursos/videos/retos-alvaro.mp4) |
-| Prototipo Figma | [`recursos/videos/figma-alvaro.mp4`](recursos/videos/figma-alvaro.mp4) |
-| Backend SOA/OSB (altas/ediciones) | [`recursos/videos/soaosb-alvaro.mp4`](recursos/videos/soaosb-alvaro.mp4) |
-| Spring Boot | [`recursos/videos/springboot-alvaro.mp4`](recursos/videos/springboot-alvaro.mp4) |
-| Frontend JET | [`recursos/videos/jet-alvaro.mp4`](recursos/videos/jet-alvaro.mp4) |
-| Frontend React | [`recursos/videos/react-alvaro.mp4`](recursos/videos/react-alvaro.mp4) |
+| Retos Oracle JET | [`recursos/videos/alvaro/retos.mp4`](recursos/videos/alvaro/retos.mp4) |
+| Prototipo Figma | [`recursos/videos/alvaro/figma.mp4`](recursos/videos/alvaro/figma.mp4) |
+| Backend SOA/OSB (altas/ediciones) | [`recursos/videos/alvaro/soaosb.mp4`](recursos/videos/alvaro/soaosb.mp4) |
+| Spring Boot | [`recursos/videos/alvaro/springboot.mp4`](recursos/videos/alvaro/springboot.mp4) |
+| Frontend JET | [`recursos/videos/alvaro/jet.mp4`](recursos/videos/alvaro/jet.mp4) |
+| Frontend React | [`recursos/videos/alvaro/react.mp4`](recursos/videos/alvaro/react.mp4) |
 
 ## Responsabilidades asumidas
 
@@ -658,7 +658,8 @@ Carpeta [`recursos/videos/`](recursos/videos/): capturas de pantalla y demos del
 | [`recursos/videos/hivefive_previo.mp4`](recursos/videos/hivefive_previo.mp4) | HiveFive antes de migración |
 | [`recursos/videos/hivefive_migrado.mp4`](recursos/videos/hivefive_migrado.mp4) | HiveFive tras migración |
 | [`recursos/videos/bruno.mp4`](recursos/videos/bruno.mp4) | Documentación y prueba con Bruno |
-| Clips por alumno | Carpeta [`recursos/videos/`](recursos/videos/) (`*-alvaro.mp4`, `*-jose.mp4`) |
+| Clips José | [`recursos/videos/jose/`](recursos/videos/jose/) |
+| Clips Álvaro | [`recursos/videos/alvaro/`](recursos/videos/alvaro/) |
 
 ## Imágenes de arquitectura y pruebas
 
