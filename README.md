@@ -1,22 +1,84 @@
-# Prácticas Dual - Viewnext Málaga
-## Contexto general
-Este repositorio recoge la información necesaria para evaluar la estancia en prácticas duales realizada en **Viewnext**, en la sede de **Málaga**, situada en el edificio **The Green Ray**.
-Viewnext es una empresa tecnológica que trabaja en el desarrollo de soluciones digitales para clientes, participando en tareas de análisis, diseño, desarrollo, integración, validación y mejora de software dentro de proyectos reales. Durante esta estancia formativa, el trabajo se ha desarrollado en un entorno profesional con reuniones de seguimiento, planificación por sprints, demostraciones y revisiones periódicas.
-## Empresa
-- **Empresa:** Viewnext
-- **Sede:** Málaga
-- **Ubicación:** Edificio The Green Ray
-- **Periodo de prácticas:** Enero 2026 - Mayo 2026
-- **Modalidad:** Formación dual
-- **Repositorio compartido:** Sí
-## Alumnado participante
-- **José**  
-- **Álvaro**
-> Si se desea, aquí pueden añadirse los nombres completos de cada alumno para facilitar la identificación.
-## Enlaces a los vídeos
-- **Vídeo de José:** [Añadir enlace al vídeo de José]
-- **Vídeo de Álvaro:** [Añadir enlace al vídeo de Álvaro]
+# Prácticas Dual — Viewnext (2º DAM 2025/2026)
+
+## Datos de la entrega
+
+| Campo | Detalle |
+|-------|---------|
+| **Centro** | CPIFP Alan Turing (Málaga - PTA) |
+| **Ciclo** | 2º DAM — Desarrollo de Aplicaciones Multiplataforma (turno de mañana) |
+| **Curso** | 2025 / 2026 |
+| **Empresa** | Viewnext |
+| **Sede** | Málaga — Edificio The Green Ray |
+| **Periodo** | Enero 2026 – Mayo 2026 |
+| **Modalidad** | Formación dual |
+| **Repositorio** | Compartido (un enlace por empresa en la tabla oficial del centro) |
+| **Participantes** | José Antonio Domínguez González · Álvaro Jiménez Muñoz |
+
+Este repositorio recoge la información necesaria para que el profesorado evalúe la estancia en prácticas de forma **no presencial** (README, vídeo de exposición y material anexo).
+
+## Índice
+
+1. [Vídeo de exposición (recomendado)](#vídeo-de-exposición)
+2. [Presentación](#presentación)
+3. [Evaluación individual y trabajo conjunto](#evaluación-individual-y-trabajo-conjunto)
+4. [Parte común de empresa](#parte-común-de-empresa)
+5. [Actividad individual — José Antonio Domínguez González](#actividad-individual-de-josé-antonio-domínguez-gonzález)
+6. [Actividad individual — Álvaro Jiménez Muñoz](#actividad-individual-de-álvaro-jiménez-muñoz)
+7. [Material del repositorio](#material-del-repositorio)
+8. [Publicación en la tabla del centro](#publicación-en-la-tabla-del-centro)
+
 ---
+
+## Vídeo de exposición
+
+**Formato recomendado:** ver el vídeo grabado en las oficinas de Viewnext, con ambos integrantes del equipo explicando el contenido. Incluye la parte común de empresa y las partes individuales en un único archivo.
+
+| Recurso | Enlace |
+|---------|--------|
+| **Vídeo completo de exposición** | [`recursos/videos/videopracticas.mp4`](recursos/videos/videopracticas.mp4) |
+
+Duración total verificada: **15 min 55 s** (cumple los límites: ≤ 5 min común + ≤ 5 min por alumno).
+
+### Índice de minutajes (un solo vídeo, dos alumnos)
+
+| Tramo | Intervalo | Contenido | Enlace al archivo |
+|-------|-----------|-----------|-------------------|
+| **Parte común (empresa)** | `00:00` – `05:00` | Introducción a Viewnext, metodología ágil, proyecto HiveFive y cronograma macro | [`videopracticas.mp4`](recursos/videos/videopracticas.mp4) |
+| **José Antonio Domínguez González** | `05:00` – `10:00` | Trabajo individual: demostraciones GET/DELETE, listados, tests y valoración | [`videopracticas.mp4`](recursos/videos/videopracticas.mp4) |
+| **Álvaro Jiménez Muñoz** | `10:00` – `15:55` | Trabajo individual: demostraciones POST/PUT, creación/edición, migraciones y valoración | [`videopracticas.mp4`](recursos/videos/videopracticas.mp4) |
+
+> Al reproducir el archivo localmente, adelantar el reproductor al minuto indicado. En el visor de GitHub, abrir el MP4 y usar la barra de tiempo según la tabla.
+
+### Vídeo identificado por alumno (normativa CPIFP)
+
+- **Vídeo de exposición — José Antonio Domínguez González:** tramo **05:00 – 10:00** de [`recursos/videos/videopracticas.mp4`](recursos/videos/videopracticas.mp4)
+- **Vídeo de exposición — Álvaro Jiménez Muñoz:** tramo **10:00 – 15:55** de [`recursos/videos/videopracticas.mp4`](recursos/videos/videopracticas.mp4)
+
+---
+
+## Presentación
+
+| Formato | Enlace | Notas |
+|---------|--------|-------|
+| **Online (preferente)** | [Presentación FP Dual Viewnext en Gamma](https://gamma.app/docs/Presentacion-de-Formacion-Dual-en-Viewnext-dr3ox64o02jse51?mode=doc) | Versión con diseño y navegación correctos |
+| **Vídeo con el equipo** | [`recursos/videos/videopracticas.mp4`](recursos/videos/videopracticas.mp4) | Incluye explicación hablada; es la referencia principal junto con este README |
+| **PPTX (respaldo)** | [`recursos/presentación/Presentacion-de-Formacion-Dual-en-Viewnext.pptx`](recursos/presentación/Presentacion-de-Formacion-Dual-en-Viewnext.pptx) | Exportación de respaldo; **puede alterar estilos y maquetación** respecto a Gamma — se recomienda priorizar el enlace online o el vídeo |
+
+---
+
+## Evaluación individual y trabajo conjunto
+
+Álvaro Jiménez Muñoz y José Antonio Domínguez González han estado integrados en la **misma célula ágil (Scrum)** de la división Oracle, trabajando en la modernización de **HiveFive** (gestor de proyectos corporativo). Las tecnologías y fases formativas han sido compartidas; la diferenciación para la evaluación individual se basa en:
+
+- **Tickets distintos en Jira** (asignaciones propias dentro del mismo sprint).
+- **Commits y entregas propias** en los repositorios del proyecto.
+- **Reparto de demostraciones en el vídeo** (“técnica del espejo”): Álvaro centra flujos de **creación y edición (POST/PUT)**; José centra **lectura y borrado (GET/DELETE)**, listados y tableros.
+- **Este README:** calendario común arriba; **cronogramas, módulos, IPE II y valoración por separado** en cada sección individual.
+
+El detalle semanal exhaustivo y la justificación por módulo DAM están en las secciones individuales; el vídeo mantiene un enfoque **macro** por límite de tiempo normativo.
+
+---
+
 # Parte común de empresa
 ## Introducción a la empresa
 Viewnext es una empresa de tecnología orientada al desarrollo de soluciones digitales para clientes. Su trabajo abarca distintas fases del ciclo de vida del software, desde el análisis de necesidades hasta el diseño, desarrollo, integración y validación de soluciones reales.
@@ -312,7 +374,13 @@ A continuación se detalla la evolución de las prácticas semana a semana, con 
 | **Agents, skills y migración moderna** | Abr–May 2026 | Spring Boot, React, tests, limpieza, demos y cierre |
 
 ---
-# Actividad individual de José
+# Actividad individual de José Antonio Domínguez González
+
+## Vídeo de exposición (José Antonio Domínguez González)
+
+- **Tramo individual:** minutos **05:00 – 10:00** de [`recursos/videos/videopracticas.mp4`](recursos/videos/videopracticas.mp4)
+- **Parte común de empresa:** minutos **00:00 – 05:00** del mismo archivo
+
 ## Resumen de la actividad realizada
 Durante mi estancia en Viewnext he participado en un itinerario progresivo que ha combinado formación técnica, integración en la dinámica del equipo, desarrollo de tareas prácticas, pruebas y participación en procesos de migración tecnológica.
 La evolución general de mi actividad ha sido la siguiente:
@@ -325,6 +393,30 @@ La evolución general de mi actividad ha sido la siguiente:
 - **04/2026 - 05/2026:** **Migración de frontend** de **JET** a **React**
 - **04/2026 - 05/2026:** **Pruebas** sobre **Spring Boot** y **React**
 
+## Temporalización individual por fases
+
+Calendario detallado día a día (común al equipo) en [Trabajo por semana](#trabajo-por-semana). A continuación, el **foco de mi aportación** por periodo:
+
+| Periodo | Semanas aprox. | Actividad principal (José) |
+|---------|----------------|----------------------------|
+| Incorporación y formación | 1–2 (ene) | Cursos corporativos, retos JET iniciales, integración en dailies |
+| Servicios Oracle | 3–5 (feb) | Formación SOA/OSB; documentación de endpoints y pruebas en **Postman** |
+| HiveFive stack Oracle | 6–9 (mar) | CRUDs y tests en SOA/OSB/JET; **GET/listados**, adaptación frontend JET al backend Oracle |
+| Agents y migración moderna | 10–13 (abr) | Skills/agents; migración SOA/OSB → Spring Boot; **JET → React** (pantallas de consulta y tableros) |
+| Cierre | 14–17 (may) | Tests React/Spring Boot, demo final, preparación y grabación del entregable |
+
+En la grabación del vídeo he mostrado sobre todo operaciones de **lectura y borrado (GET/DELETE)**, listados, dashboards y validación con tests, complementando el trabajo de mi compañero en creación/edición.
+
+## Demostraciones en vídeo (clips de apoyo)
+
+| Tema | Archivo |
+|------|---------|
+| Retos Oracle JET | [`recursos/presentación/retos-jose.mp4`](recursos/presentación/retos-jose.mp4) |
+| Prototipo Figma | [`recursos/presentación/figma-jose.mp4`](recursos/presentación/figma-jose.mp4) |
+| Backend SOA/OSB (consultas) | [`recursos/presentación/soaosb-jose.mp4`](recursos/presentación/soaosb-jose.mp4) |
+| Spring Boot | [`recursos/presentación/springboot-jose.mp4`](recursos/presentación/springboot-jose.mp4) |
+| Frontend JET | [`recursos/presentación/jet-jose.mp4`](recursos/presentación/jet-jose.mp4) |
+| Frontend React | [`recursos/presentación/react-jose.mp4`](recursos/presentación/react-jose.mp4) |
 
 ## Responsabilidades asumidas
 Durante este periodo mis responsabilidades principales han sido:
@@ -338,15 +430,14 @@ Durante este periodo mis responsabilidades principales han sido:
 
 
 ## Herramientas y tecnologías utilizadas
-A lo largo de las prácticas he trabajado con las siguientes herramientas, tecnologías y entornos:
-- **Oracle JET**
-- **SOA**
-- **OSB**
-- **Spring Boot**
-- **React**
-- Entorno de trabajo basado en **reuniones con metodología agile**
-- Seguimiento de tareas mediante **dailys**, **sprint planning**, **demos** y **retrospectivas**
-- Documentación técnica y coordinación dentro del equipo de trabajo
+
+- **Frontend:** Oracle JET, React, Figma
+- **Backend:** Oracle SOA, Oracle OSB, Spring Boot
+- **Pruebas y APIs:** Tests unitarios e integración, **Postman**, **Bruno** (documentación backend migrado)
+- **Metodología:** Scrum — dailies, sprint planning, demos, retrospectivas
+- **Gestión:** **Jira**, **Trello**, **Teams**
+- **IA en desarrollo:** Agentes, skills y prompts para migración y refactorización
+- **Otros:** Docker (entorno JDeveloper del equipo), documentación técnica en inglés
 ## Conocimientos adquiridos por módulo profesional
 ### Acceso a Datos
 He reforzado mi comprensión sobre cómo se organiza y se utiliza la información dentro de una aplicación, entendiendo mejor la relación entre las distintas capas del sistema.
@@ -408,44 +499,200 @@ En conjunto, esta experiencia me ha ayudado a entender cómo las competencias pe
 
 ### Proyecto Intermodular de Desarrollo de Aplicaciones Multiplataforma
 La estancia me ha permitido ver cómo se conectan en un entorno real varias áreas del desarrollo de software, como frontend, backend, pruebas, organización y coordinación de equipo, utilizando la metodología agile y herramientas como trello y jira.
-###Diseño e Implementación de Infraestructuras de Servicios y APIs
+### Diseño e Implementación de Infraestructuras de Servicios y APIs
 He reforzado conocimientos muy relacionados con integración de servicios, arquitectura y evolución tecnológica del backend, especialmente en el contexto de **SOA**, **OSB** y **Spring Boot**.
 ## Valoración personal de la experiencia dual
 Mi valoración de la experiencia dual en Viewnext es muy positiva. Esta estancia me ha permitido pasar del entorno académico a un entorno profesional real, entendiendo mejor cómo se trabaja dentro de una empresa tecnológica y cómo se organizan los proyectos de software.
 A nivel técnico, he podido formarme en tecnologías concretas y participar en tareas reales de desarrollo, pruebas y migración. A nivel personal y profesional, he mejorado en aspectos como la comunicación, la adaptación al trabajo en equipo, la responsabilidad y la organización.
 
 ---
-# Actividad individual de Álvaro
-> **Importante:** Este apartado debe completarse con la actividad real de Álvaro para que la evaluación sea individual y no haya ambigüedad.
-## Vídeo individual
-- **Vídeo de Álvaro:** [Añadir enlace al vídeo de Álvaro]
-## Tareas realizadas y temporalización
-Añadir aquí, por separado, la actividad concreta de Álvaro indicando:
-- Qué tareas ha realizado.
-- En qué periodos o semanas.
-- Qué responsabilidades ha asumido.
-- Qué herramientas ha utilizado.
-- Qué conocimientos ha adquirido por módulo.
-- Su valoración personal de la experiencia dual.
-## Estructura recomendada para completar este apartado
-- Resumen de actividad.
-- Temporalización por semanas.
-- Responsabilidades.
-- Herramientas y tecnologías utilizadas.
-- Conocimientos adquiridos por módulo profesional.
-- Valoración personal.
+# Actividad individual de Álvaro Jiménez Muñoz
+
+## Vídeo de exposición (Álvaro Jiménez Muñoz)
+
+- **Tramo individual:** minutos **10:00 – 15:55** de [`recursos/videos/videopracticas.mp4`](recursos/videos/videopracticas.mp4)
+- **Parte común de empresa:** minutos **00:00 – 05:00** del mismo archivo
+
+## Resumen de la actividad realizada
+
+Durante mi estancia en Viewnext he participado en el mismo itinerario formativo y de migración que el resto de la célula, con foco en tareas de **creación y edición (POST/PUT)** en backend y frontend, documentación de infraestructura y entregas propias en Jira.
+
+- **01/2026 – 02/2026:** Formación en **Oracle JET** (retos y Web Components)
+- **02/2026 – 03/2026:** Formación **SOA/OSB**; **Dockerización de JDeveloper** y guía de despliegue
+- **02/2026 – 03/2026:** **HiveFive** — CRUDs SOA/OSB y adaptación **JET** al nuevo backend
+- **03/2026 – 04/2026:** Tests SOA/JET/OSB; documentación de endpoints
+- **04/2026:** **IDE Agents & Skills** para migraciones estandarizadas
+- **04/2026 – 05/2026:** Migración **SOA/OSB → Spring Boot** y **JET → React**
+- **04/2026 – 05/2026:** Tests Spring Boot y React; documentación **Bruno**
+
+## Temporalización individual por fases
+
+El [calendario común](#trabajo-por-semana) refleja las actividades del equipo. Resumen de **mi aportación** por periodo:
+
+| Periodo | Semanas aprox. | Actividad principal (Álvaro) |
+|---------|----------------|------------------------------|
+| Incorporación y formación | 1–2 (ene) | Cursos corporativos (PRL, IA, prompting); retos JET (`demo-update`, `CollectionDataProvider`, `oj-dialog`) |
+| Servicios e infraestructura | 3–5 (feb) | SOA/OSB; **contenedor Docker** para JDeveloper + guía de instalación; prototipado **Figma** |
+| HiveFive stack Oracle | 6–9 (mar) | Implementación CRUDs SOA/OSB; **POST/PUT**; mejora frontend JET (login, tableros, skeleton) |
+| Agents y migración moderna | 10–13 (abr) | Definición de agents/skills; migración a **Spring Boot** y **React** con IA; limpieza y docs **Bruno** |
+| Cierre | 14–17 (may) | Mejoras UI/UX, demo final, preparación README y grabación del vídeo de exposición |
+
+En el vídeo de exposición he mostrado principalmente flujos de **creación y edición (POST/PUT)** en SOA/OSB, Spring Boot y React, más retos formativos y Figma.
+
+## Demostraciones en vídeo (clips de apoyo)
+
+| Tema | Archivo |
+|------|---------|
+| Retos Oracle JET | [`recursos/presentación/retos-alvaro.mp4`](recursos/presentación/retos-alvaro.mp4) |
+| Prototipo Figma | [`recursos/presentación/figma-alvaro.mp4`](recursos/presentación/figma-alvaro.mp4) |
+| Backend SOA/OSB (altas/ediciones) | [`recursos/presentación/soaosb-alvaro.mp4`](recursos/presentación/soaosb-alvaro.mp4) |
+| Spring Boot | [`recursos/presentación/springboot-alvaro.mp4`](recursos/presentación/springboot-alvaro.mp4) |
+| Frontend JET | [`recursos/presentación/jet-alvaro.mp4`](recursos/presentación/jet-alvaro.mp4) |
+| Frontend React | [`recursos/presentación/react-alvaro.mp4`](recursos/presentación/react-alvaro.mp4) |
+
+## Responsabilidades asumidas
+
+- Participar en dailies, sprint planning, demos y retrospectivas.
+- Desarrollar y migrar componentes full-stack asignados por **Jira**.
+- Empaquetar y documentar el entorno Oracle (Docker + guía).
+- Diseñar prototipos en Figma acordados en planning.
+- Implementar y probar CRUDs y pantallas (énfasis POST/PUT).
+- Colaborar en agents/skills para migraciones repetibles.
+- Elaborar documentación técnica y el presente entregable.
+
+## Herramientas y tecnologías utilizadas
+
+- **Frontend:** Oracle JET, React, Figma
+- **Backend:** Oracle SOA, Oracle OSB, Spring Boot
+- **Pruebas y APIs:** Tests unitarios e integración, **Bruno**, Postman
+- **Infraestructura:** Docker (JDeveloper SOA/OSB)
+- **Metodología:** Scrum; **Jira**, **Trello**, **Teams**
+- **IA:** Agentes, skills y prompts para refactorización y migración
+- **Control de versiones:** Git; commits y mensajes en inglés
+
+## Conocimientos adquiridos por módulo profesional
+
+### Acceso a Datos
+
+Adaptación de modelos y endpoints para alimentar interfaces en React tras la migración; trabajo con persistencia y contratos REST en Spring Boot.
+
+### Desarrollo de Interfaces
+
+Evolución de pantallas en **Oracle JET** a **React**; prototipado en **Figma**; componentes interactivos y mejoras de UX (login, tableros, estados de carga).
+
+### Diseño e Implementación de Infraestructuras de Servicios y APIs
+
+Integración SOA/OSB, exposición de servicios y migración a microservicios Spring Boot; documentación de APIs en Bruno.
+
+### Inglés Profesional GS
+
+Lectura de documentación oficial Oracle/Spring y redacción habitual de commits y mensajes técnicos en inglés.
+
+### Programación Multimedia y Dispositivos Móviles
+
+El proyecto en empresa fue web; en tiempo de trabajo autónomo apliqué el módulo desarrollando una **app Android en Kotlin** vinculada al proyecto intermodular del ciclo.
+
+### Programación de Servicios y Procesos
+
+Desarrollo real de lógica de negocio y migración de servicios heredados a **Spring Boot**, con pruebas automatizadas.
+
+### Proyecto Intermodular de Desarrollo de Aplicaciones Multiplataforma
+
+Aplicación de metodología ágil, Jira y repositorios reales al proyecto formativo del ciclo en paralelo a HiveFive.
+
+### Sistemas de Gestión Empresarial
+
+Mejoras en **HiveFive**, herramienta interna de coordinación de equipos y tareas en la división Oracle.
+
+### Itinerario Personal para la Empleabilidad II
+
+#### Análisis y propuesta de proyecto social sostenible (RA5 y RA2)
+
+**1. Proyecto existente — Bosque Viewnext**
+
+Iniciativa de **reforestación y compensación de huella de carbono** de la empresa (plantaciones en entornos como Teba, Málaga, vinculadas a la política de sostenibilidad corporativa). Combina voluntariado, comunicación interna y medición del impacto ambiental positivo.
+
+**2. Objetivos**
+
+- **Medioambientales:** Captura de CO₂, recuperación de zonas verdes y sensibilización sobre huella digital y física.
+- **Sociales:** Cohesión de equipos y alineación con la RSC de Viewnext.
+- **Formativos:** Reflexión sobre sostenibilidad aplicada al sector TIC.
+
+**3. Propuesta de mejora — Green Computing**
+
+Vincular métricas de **eficiencia de código** (por ejemplo, reducción de renders y peticiones redundantes en React, consultas optimizadas en backend) con el consumo energético de servidores y clientes, reportando indicadores simples en revisiones de sprint.
+
+**4. Competencias personales y sociales observadas**
+
+Comunicación directa en dailies, apoyo mutuo en bloqueos técnicos, gestión de tareas en Jira y adaptación rápida a cambios de stack (Oracle → Spring/React).
+
+## Valoración personal de la experiencia dual
+
+Valoración muy positiva: paso del aula a una **célula ágil real**, con responsabilidad sobre código productivo y migraciones completas. Destaco el aprendizaje de stacks legacy y modernos, el uso profesional de IA sin sustituir el criterio propio, y las soft skills (trabajo en equipo, comunicación y organización). La dual en Viewnext ha consolidado mi perfil full-stack y mi empleabilidad en entornos enterprise.
+
 ---
-# Material adicional del repositorio
-En este repositorio pueden incluirse también materiales complementarios relacionados con la exposición y la estancia en prácticas, por ejemplo:
-- Presentación o diapositivas.
-- PDF resumen.
-- Capturas o imágenes.
-- Documentación adicional.
-- Ejemplos de trabajo realizados durante la estancia.
+# Material del repositorio
+
+Todo el material complementario está **versionado en este repositorio** (no solo en copias locales).
+
+## Presentación y vídeo principal
+
+| Recurso | Ruta |
+|---------|------|
+| Presentación Gamma (enlace preferente) | [Abrir en Gamma](https://gamma.app/docs/Presentacion-de-Formacion-Dual-en-Viewnext-dr3ox64o02jse51?mode=doc) |
+| Vídeo de exposición (equipo + minutajes) | [`recursos/videos/videopracticas.mp4`](recursos/videos/videopracticas.mp4) |
+| Diapositivas PPTX (respaldo) | [`recursos/presentación/Presentacion-de-Formacion-Dual-en-Viewnext.pptx`](recursos/presentación/Presentacion-de-Formacion-Dual-en-Viewnext.pptx) |
+
+## Vídeos de demostración (comunes y por alumno)
+
+| Archivo | Descripción |
+|---------|-------------|
+| [`recursos/videos/figma.mp4`](recursos/videos/figma.mp4) | Prototipado UI |
+| [`recursos/videos/jet_retos.mp4`](recursos/videos/jet_retos.mp4) | Retos formativos JET |
+| [`recursos/videos/soa_crud.mp4`](recursos/videos/soa_crud.mp4) | CRUD en SOA/OSB |
+| [`recursos/videos/soa_tests.mp4`](recursos/videos/soa_tests.mp4) | Pruebas backend Oracle |
+| [`recursos/videos/hivefive_previo.mp4`](recursos/videos/hivefive_previo.mp4) | HiveFive antes de migración |
+| [`recursos/videos/hivefive_migrado.mp4`](recursos/videos/hivefive_migrado.mp4) | HiveFive tras migración |
+| [`recursos/videos/bruno.mp4`](recursos/videos/bruno.mp4) | Documentación y prueba con Bruno |
+| Clips por alumno | Carpeta [`recursos/presentación/`](recursos/presentación/) (`*-alvaro.mp4`, `*-jose.mp4`) |
+
+## Imágenes de arquitectura y pruebas
+
+| Archivo | Descripción |
+|---------|-------------|
+| [`recursos/imagenes/arquitectura_previa.png`](recursos/imagenes/arquitectura_previa.png) | Arquitectura inicial |
+| [`recursos/imagenes/arquitectura_media.jpg`](recursos/imagenes/arquitectura_media.jpg) | Fase intermedia (Oracle) |
+| [`recursos/imagenes/arquitectura_final.jpg`](recursos/imagenes/arquitectura_final.jpg) | Arquitectura final (Spring Boot + React) |
+| [`recursos/imagenes/agents_&_skills.png`](recursos/imagenes/agents_&_skills.png) | Agents y skills |
+| [`recursos/imagenes/jet_tests.png`](recursos/imagenes/jet_tests.png) | Tests JET |
+| [`recursos/imagenes/springboot_tests.png`](recursos/imagenes/springboot_tests.png) | Tests Spring Boot |
+| [`recursos/imagenes/react_tests.png`](recursos/imagenes/react_tests.png) | Tests React |
+
+## Certificados de formación corporativa
+
+| Alumno | Carpeta |
+|--------|---------|
+| Álvaro Jiménez Muñoz | [`recursos/certificados/alvaro/`](recursos/certificados/alvaro/) |
+| José Antonio Domínguez González | [`recursos/certificados/jose/`](recursos/certificados/jose/) |
+
+Incluyen, entre otros: prevención de riesgos laborales, gestión ambiental, seguridad de la información, fundamentos de IA generativa, prompting efectivo e introducción a servicios web.
+
+---
+# Publicación en la tabla del centro
+
+Cuando este repositorio esté publicado, debe sustituirse *pendiente* por la URL en la fila **ViewNext** del listado oficial del CPIFP Alan Turing:
+
+**URL de entrega:** `https://github.com/Almucero/Dual-ViewNext-2DAM`
+
+Repositorio de instrucciones del centro: [Presentaciones duales 2º DAM](https://github.com/CPIFPAlanTuring/presentaciones-duales-2dam) (tabla por empresa).
+
 ---
 # Observación final
-Este README está organizado para distinguir claramente:
-- La información **común de la empresa**.
-- La actividad **individual de cada alumno**.
-- Los **enlaces a los vídeos** de exposición.
-De este modo, el profesorado puede evaluar la estancia de cada participante sin ambigüedad.
+
+Este README distingue de forma explícita:
+
+- Información **común de la empresa** y calendario compartido.
+- Actividad **individual** de José Antonio Domínguez González y Álvaro Jiménez Muñoz.
+- **Vídeo de exposición** con minutajes y material anexo enlazado.
+
+Con ello el profesorado puede evaluar cada estancia sin ambigüedad.
