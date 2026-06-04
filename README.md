@@ -35,7 +35,7 @@ Este repositorio recoge la información necesaria para que el profesorado evalú
 
 | Recurso | Enlace |
 |---------|--------|
-| **Vídeo completo de exposición** | [`recursos/videos/videopracticas.mp4`](recursos/videos/videopracticas.mp4) |
+| **Vídeo completo de exposición** | [`recursos/presentación/videopracticas.mp4`](recursos/presentación/videopracticas.mp4) |
 
 Duración total verificada: **15 min 55 s** (cumple los límites: ≤ 5 min común + ≤ 5 min por alumno).
 
@@ -43,16 +43,16 @@ Duración total verificada: **15 min 55 s** (cumple los límites: ≤ 5 min com�
 
 | Tramo | Intervalo | Contenido | Enlace al archivo |
 |-------|-----------|-----------|-------------------|
-| **Parte común (empresa)** | `00:00` – `05:00` | Introducción a Viewnext, metodología ágil, proyecto HiveFive y cronograma macro | [`videopracticas.mp4`](recursos/videos/videopracticas.mp4) |
-| **José Antonio Domínguez González** | `05:00` – `10:00` | Trabajo individual: demostraciones GET/DELETE, listados, tests y valoración | [`videopracticas.mp4`](recursos/videos/videopracticas.mp4) |
-| **Álvaro Jiménez Muñoz** | `10:00` – `15:55` | Trabajo individual: demostraciones POST/PUT, creación/edición, migraciones y valoración | [`videopracticas.mp4`](recursos/videos/videopracticas.mp4) |
+| **Parte común (empresa)** | `00:00` – `05:00` | Introducción a Viewnext, metodología ágil, proyecto HiveFive y cronograma macro | [`videopracticas.mp4`](recursos/presentación/videopracticas.mp4) |
+| **José Antonio Domínguez González** | `05:00` – `10:00` | Trabajo individual: demostraciones GET/DELETE, listados, tests y valoración | [`videopracticas.mp4`](recursos/presentación/videopracticas.mp4) |
+| **Álvaro Jiménez Muñoz** | `10:00` – `15:55` | Trabajo individual: demostraciones POST/PUT, creación/edición, migraciones y valoración | [`videopracticas.mp4`](recursos/presentación/videopracticas.mp4) |
 
 > Al reproducir el archivo localmente, adelantar el reproductor al minuto indicado. En el visor de GitHub, abrir el MP4 y usar la barra de tiempo según la tabla.
 
 ### Vídeo identificado por alumno (normativa CPIFP)
 
-- **Vídeo de exposición — José Antonio Domínguez González:** tramo **05:00 – 10:00** de [`recursos/videos/videopracticas.mp4`](recursos/videos/videopracticas.mp4)
-- **Vídeo de exposición — Álvaro Jiménez Muñoz:** tramo **10:00 – 15:55** de [`recursos/videos/videopracticas.mp4`](recursos/videos/videopracticas.mp4)
+- **Vídeo de exposición — José Antonio Domínguez González:** tramo **05:00 – 10:00** de [`recursos/presentación/videopracticas.mp4`](recursos/presentación/videopracticas.mp4)
+- **Vídeo de exposición — Álvaro Jiménez Muñoz:** tramo **10:00 – 15:55** de [`recursos/presentación/videopracticas.mp4`](recursos/presentación/videopracticas.mp4)
 
 ---
 
@@ -61,8 +61,8 @@ Duración total verificada: **15 min 55 s** (cumple los límites: ≤ 5 min com�
 | Formato | Enlace | Notas |
 |---------|--------|-------|
 | **Online (preferente)** | [Presentación FP Dual Viewnext en Gamma](https://gamma.app/docs/Presentacion-de-Formacion-Dual-en-Viewnext-dr3ox64o02jse51?mode=doc) | Versión con diseño y navegación correctos |
-| **Vídeo con el equipo** | [`recursos/videos/videopracticas.mp4`](recursos/videos/videopracticas.mp4) | Incluye explicación hablada; es la referencia principal junto con este README |
-| **PPTX (respaldo)** | [`recursos/presentación/Presentacion-de-Formacion-Dual-en-Viewnext.pptx`](recursos/presentación/Presentacion-de-Formacion-Dual-en-Viewnext.pptx) | Exportación de respaldo; **puede alterar estilos y maquetación** respecto a Gamma — se recomienda priorizar el enlace online o el vídeo |
+| **Vídeo con el equipo** | [`recursos/presentación/videopracticas.mp4`](recursos/presentación/videopracticas.mp4) | Incluye explicación hablada; es la referencia principal junto con este README |
+| **PPTX (respaldo)** | [`recursos/presentación/presentacion.pptx`](recursos/presentación/presentacion.pptx) | Exportación de respaldo; **puede alterar estilos y maquetación** respecto a Gamma — se recomienda priorizar el enlace online o el vídeo |
 
 ---
 
@@ -378,7 +378,7 @@ A continuación se detalla la evolución de las prácticas semana a semana, con 
 
 ## Vídeo de exposición (José Antonio Domínguez González)
 
-- **Tramo individual:** minutos **05:00 – 10:00** de [`recursos/videos/videopracticas.mp4`](recursos/videos/videopracticas.mp4)
+- **Tramo individual:** minutos **05:00 – 10:00** de [`recursos/presentación/videopracticas.mp4`](recursos/presentación/videopracticas.mp4)
 - **Parte común de empresa:** minutos **00:00 – 05:00** del mismo archivo
 
 ## Resumen de la actividad realizada
@@ -411,12 +411,12 @@ En la grabación del vídeo he mostrado sobre todo operaciones de **lectura y bo
 
 | Tema | Archivo |
 |------|---------|
-| Retos Oracle JET | [`recursos/presentación/retos-jose.mp4`](recursos/presentación/retos-jose.mp4) |
-| Prototipo Figma | [`recursos/presentación/figma-jose.mp4`](recursos/presentación/figma-jose.mp4) |
-| Backend SOA/OSB (consultas) | [`recursos/presentación/soaosb-jose.mp4`](recursos/presentación/soaosb-jose.mp4) |
-| Spring Boot | [`recursos/presentación/springboot-jose.mp4`](recursos/presentación/springboot-jose.mp4) |
-| Frontend JET | [`recursos/presentación/jet-jose.mp4`](recursos/presentación/jet-jose.mp4) |
-| Frontend React | [`recursos/presentación/react-jose.mp4`](recursos/presentación/react-jose.mp4) |
+| Retos Oracle JET | [`recursos/videos/retos-jose.mp4`](recursos/videos/retos-jose.mp4) |
+| Prototipo Figma | [`recursos/videos/figma-jose.mp4`](recursos/videos/figma-jose.mp4) |
+| Backend SOA/OSB (consultas) | [`recursos/videos/soaosb-jose.mp4`](recursos/videos/soaosb-jose.mp4) |
+| Spring Boot | [`recursos/videos/springboot-jose.mp4`](recursos/videos/springboot-jose.mp4) |
+| Frontend JET | [`recursos/videos/jet-jose.mp4`](recursos/videos/jet-jose.mp4) |
+| Frontend React | [`recursos/videos/react-jose.mp4`](recursos/videos/react-jose.mp4) |
 
 ## Responsabilidades asumidas
 Durante este periodo mis responsabilidades principales han sido:
@@ -510,7 +510,7 @@ A nivel técnico, he podido formarme en tecnologías concretas y participar en t
 
 ## Vídeo de exposición (Álvaro Jiménez Muñoz)
 
-- **Tramo individual:** minutos **10:00 – 15:55** de [`recursos/videos/videopracticas.mp4`](recursos/videos/videopracticas.mp4)
+- **Tramo individual:** minutos **10:00 – 15:55** de [`recursos/presentación/videopracticas.mp4`](recursos/presentación/videopracticas.mp4)
 - **Parte común de empresa:** minutos **00:00 – 05:00** del mismo archivo
 
 ## Resumen de la actividad realizada
@@ -543,12 +543,12 @@ En el vídeo de exposición he mostrado principalmente flujos de **creación y e
 
 | Tema | Archivo |
 |------|---------|
-| Retos Oracle JET | [`recursos/presentación/retos-alvaro.mp4`](recursos/presentación/retos-alvaro.mp4) |
-| Prototipo Figma | [`recursos/presentación/figma-alvaro.mp4`](recursos/presentación/figma-alvaro.mp4) |
-| Backend SOA/OSB (altas/ediciones) | [`recursos/presentación/soaosb-alvaro.mp4`](recursos/presentación/soaosb-alvaro.mp4) |
-| Spring Boot | [`recursos/presentación/springboot-alvaro.mp4`](recursos/presentación/springboot-alvaro.mp4) |
-| Frontend JET | [`recursos/presentación/jet-alvaro.mp4`](recursos/presentación/jet-alvaro.mp4) |
-| Frontend React | [`recursos/presentación/react-alvaro.mp4`](recursos/presentación/react-alvaro.mp4) |
+| Retos Oracle JET | [`recursos/videos/retos-alvaro.mp4`](recursos/videos/retos-alvaro.mp4) |
+| Prototipo Figma | [`recursos/videos/figma-alvaro.mp4`](recursos/videos/figma-alvaro.mp4) |
+| Backend SOA/OSB (altas/ediciones) | [`recursos/videos/soaosb-alvaro.mp4`](recursos/videos/soaosb-alvaro.mp4) |
+| Spring Boot | [`recursos/videos/springboot-alvaro.mp4`](recursos/videos/springboot-alvaro.mp4) |
+| Frontend JET | [`recursos/videos/jet-alvaro.mp4`](recursos/videos/jet-alvaro.mp4) |
+| Frontend React | [`recursos/videos/react-alvaro.mp4`](recursos/videos/react-alvaro.mp4) |
 
 ## Responsabilidades asumidas
 
@@ -635,15 +635,19 @@ Valoración muy positiva: paso del aula a una **célula ágil real**, con respon
 
 Todo el material complementario está **versionado en este repositorio** (no solo en copias locales).
 
-## Presentación y vídeo principal
+## Presentación (entrega principal)
+
+Carpeta [`recursos/presentación/`](recursos/presentación/): material de la exposición dual.
 
 | Recurso | Ruta |
 |---------|------|
 | Presentación Gamma (enlace preferente) | [Abrir en Gamma](https://gamma.app/docs/Presentacion-de-Formacion-Dual-en-Viewnext-dr3ox64o02jse51?mode=doc) |
-| Vídeo de exposición (equipo + minutajes) | [`recursos/videos/videopracticas.mp4`](recursos/videos/videopracticas.mp4) |
-| Diapositivas PPTX (respaldo) | [`recursos/presentación/Presentacion-de-Formacion-Dual-en-Viewnext.pptx`](recursos/presentación/Presentacion-de-Formacion-Dual-en-Viewnext.pptx) |
+| Vídeo de exposición (equipo + minutajes) | [`recursos/presentación/videopracticas.mp4`](recursos/presentación/videopracticas.mp4) |
+| Diapositivas PPTX (respaldo) | [`recursos/presentación/presentacion.pptx`](recursos/presentación/presentacion.pptx) |
 
-## Vídeos de demostración (comunes y por alumno)
+## Vídeos de demostración técnica
+
+Carpeta [`recursos/videos/`](recursos/videos/): capturas de pantalla y demos del proyecto (distintos del vídeo de exposición).
 
 | Archivo | Descripción |
 |---------|-------------|
@@ -654,7 +658,7 @@ Todo el material complementario está **versionado en este repositorio** (no sol
 | [`recursos/videos/hivefive_previo.mp4`](recursos/videos/hivefive_previo.mp4) | HiveFive antes de migración |
 | [`recursos/videos/hivefive_migrado.mp4`](recursos/videos/hivefive_migrado.mp4) | HiveFive tras migración |
 | [`recursos/videos/bruno.mp4`](recursos/videos/bruno.mp4) | Documentación y prueba con Bruno |
-| Clips por alumno | Carpeta [`recursos/presentación/`](recursos/presentación/) (`*-alvaro.mp4`, `*-jose.mp4`) |
+| Clips por alumno | Carpeta [`recursos/videos/`](recursos/videos/) (`*-alvaro.mp4`, `*-jose.mp4`) |
 
 ## Imágenes de arquitectura y pruebas
 
